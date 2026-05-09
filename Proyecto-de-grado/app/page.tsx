@@ -1,5 +1,5 @@
 "use client";
-// Jhonattan - Revision de codigo
+// Jhonattan Reyes - Revision de codigo
 import { useState } from "react";
 
 export default function Home() {
